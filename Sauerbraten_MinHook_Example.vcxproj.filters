@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="glDraw">
+      <UniqueIdentifier>{df1b1363-c75d-48a3-8a2a-8fd958f5335e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="glText">
+      <UniqueIdentifier>{9c81e03e-22b8-43cf-8ce5-b77cf7fdf912}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="mem">
+      <UniqueIdentifier>{879eea1b-5d0c-4ca2-a78e-fbced43b3720}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="esp">
+      <UniqueIdentifier>{48143a58-d05a-40b5-a634-7e45fb301d5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="geom">
+      <UniqueIdentifier>{f5653cb7-90dc-46ea-82a7-31946efee579}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="aimbot">
+      <UniqueIdentifier>{fd2676ab-b12e-4695-aaf1-003012efd960}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gldraw.cpp">
+      <Filter>glDraw</Filter>
+    </ClCompile>
+    <ClCompile Include="gltext.cpp">
+      <Filter>glText</Filter>
+    </ClCompile>
+    <ClCompile Include="mem.cpp">
+      <Filter>mem</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="esp.cpp">
+      <Filter>esp</Filter>
+    </ClCompile>
+    <ClCompile Include="geom.cpp">
+      <Filter>geom</Filter>
+    </ClCompile>
+    <ClCompile Include="Entities.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="aimbot.cpp">
+      <Filter>aimbot</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="consoleHelper.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="gldraw.h">
+      <Filter>glDraw</Filter>
+    </ClInclude>
+    <ClInclude Include="gltext.h">
+      <Filter>glText</Filter>
+    </ClInclude>
+    <ClInclude Include="mem.h">
+      <Filter>mem</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Entities.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="esp.h">
+      <Filter>esp</Filter>
+    </ClInclude>
+    <ClInclude Include="geom.h">
+      <Filter>geom</Filter>
+    </ClInclude>
+    <ClInclude Include="aimbot.h">
+      <Filter>aimbot</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

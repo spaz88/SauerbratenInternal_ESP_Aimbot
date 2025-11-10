@@ -1,0 +1,49 @@
+﻿  aimbot.cpp
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\aimbot.cpp(36,37): warning C5056: opérateur '!=' : déprécié pour les types tableau
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\aimbot.cpp(48,69): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\aimbot.cpp(52,68): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  Entities.cpp
+  esp.cpp
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\esp.cpp(3,37): warning C4459: la déclaration de 'numOfPlayers' masque la déclaration globale
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(38,13):
+      voir la déclaration de 'numOfPlayers'
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\esp.cpp(3,79): warning C4459: la déclaration de 'matrix' masque la déclaration globale
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(40,15):
+      voir la déclaration de 'matrix'
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\esp.cpp(42,58): warning C4244: 'argument' : conversion de 'size_t' en 'float', perte possible de données
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\esp.cpp(63,27): warning C5056: opérateur '==' : déprécié pour les types tableau
+  geom.cpp
+  gldraw.cpp
+  gltext.cpp
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.cpp(3,26): warning C4458: la déclaration de 'height' masque le membre de classe
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.h(17,7):
+      voir la déclaration de 'GL::Font::height'
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.cpp(30,20): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.cpp(34,54): warning C4458: la déclaration de 'width' masque le membre de classe
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.h(18,7):
+      voir la déclaration de 'GL::Font::width'
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.cpp(34,67): warning C4458: la déclaration de 'height' masque le membre de classe
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.h(17,7):
+      voir la déclaration de 'GL::Font::height'
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.cpp(34,67): warning C4100: 'height' : paramètre formel non référencé
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.cpp(42,43): warning C4458: la déclaration de 'width' masque le membre de classe
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.h(18,7):
+      voir la déclaration de 'GL::Font::width'
+  
+  main.cpp
+  mem.cpp
+  pch.cpp
+LINK : warning LNK4098: conflit entre la bibliothèque par défaut 'LIBCMT' et les autres bibliothèques ; utilisez /NODEFAULTLIB:library
+  Génération de code en cours
+  867 of 877 functions (98.9%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Sauerbraten_MinHook_Example.vcxproj -> C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\x64\Release\Sauerbraten_MinHook_Example.dll
+  'pwsh.exe' n'est pas reconnu en tant que commande interne
+  ou externe, un programme exécutable ou un fichier de commandes.

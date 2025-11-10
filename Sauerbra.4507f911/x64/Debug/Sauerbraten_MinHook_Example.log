@@ -1,0 +1,150 @@
+﻿  aimbot.cpp
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(31,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(32,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(33,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(34,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(36,16): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(38,13): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(39,13): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(40,15): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(42,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(43,15): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(44,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(46,17): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'aimbot.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\aimbot.cpp(48,69): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\aimbot.cpp(52,68): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  Entities.cpp
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(31,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(32,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(33,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(34,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(36,16): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(38,13): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(39,13): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(40,15): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(42,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(43,15): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(44,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(46,17): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'Entities.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.cpp(4,26): error C2664: 'HMODULE GetModuleHandleW(LPCWSTR)' : impossible de convertir l'argument 1 de 'const char [16]' en 'LPCWSTR'
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.cpp(4,42):
+      Les types pointés ne sont pas liés ; la conversion nécessite un reinterpret_cast, un cast de style C ou un cast de style fonction entre parenthèses.
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\libloaderapi.h(244,1):
+      voir la déclaration de 'GetModuleHandleW'
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.cpp(4,26):
+      lors de la tentative de mise en correspondance de la liste des arguments '(const char [16])'
+  
+  esp.cpp
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(31,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(32,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(33,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(34,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(36,16): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(38,13): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(39,13): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(40,15): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(42,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(43,15): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(44,18): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\Entities.h(46,17): error C7525: les variables inline nécessitent au moins '/std:c++17'
+  (compiler le fichier source 'esp.cpp')
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\esp.cpp(42,58): warning C4244: 'argument' : conversion de 'size_t' en 'float', perte possible de données
+  geom.cpp
+  gldraw.cpp
+  gltext.cpp
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\gltext.cpp(30,20): warning C4267: 'argument' : conversion de 'size_t' en 'GLsizei', perte possible de données
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\print(11): warning STL4038: The contents of <print> are available only with C++23 or later.
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\consoleHelper.hpp(24,17): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)' : impossible de convertir l'argument 2 de 'const char [26]' en 'LPCWSTR'
+  (compiler le fichier source 'main.cpp')
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\consoleHelper.hpp(24,37):
+      Les types pointés ne sont pas liés ; la conversion nécessite un reinterpret_cast, un cast de style C ou un cast de style fonction entre parenthèses.
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1):
+      voir la déclaration de 'MessageBoxW'
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\consoleHelper.hpp(24,17):
+      lors de la tentative de mise en correspondance de la liste des arguments '(nullptr, const char [26], const char [6], long)'
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\consoleHelper.hpp(38,17): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)' : impossible de convertir l'argument 2 de 'const char [26]' en 'LPCWSTR'
+  (compiler le fichier source 'main.cpp')
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\consoleHelper.hpp(38,37):
+      Les types pointés ne sont pas liés ; la conversion nécessite un reinterpret_cast, un cast de style C ou un cast de style fonction entre parenthèses.
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(9180,1):
+      voir la déclaration de 'MessageBoxW'
+      C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\consoleHelper.hpp(38,17):
+      lors de la tentative de mise en correspondance de la liste des arguments '(nullptr, const char [26], const char [6], long)'
+  
+C:\Users\spaz\Documents\GitHub\SauerbratenInternal_ESP_Aimbot\main.cpp(5,10): error C1083: Impossible d'ouvrir le fichier include : 'MinHook.h' : No such file or directory
+  mem.cpp
+  pch.cpp
+  Génération de code en cours...
